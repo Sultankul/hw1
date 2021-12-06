@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">H1</string>
+    <string name="new_user_sign_up">NEW USER? SIGN UP</string>
+    <string name="go">GO</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="hello_there_n_wellcome_back">HELLO THERE, \nWELLCOME BACK</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="private_information">Private Information</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="password_smaller_6">пароль меньше 6</string>
+    <string name="you_forgot_username">Вы забыли username</string>
+    <string name="ic_pinimg">https://i.pinimg.com/474x/23/ab/a6/23aba60b66ef08174bb7455c4a8a2d2f.jpg</string>
+    <string name="password_equals_null">на строке password вы не чего не написали</string>
+    <string name="username_equals_null">на строке Username вы не чего не написали</string>
+</resources>
